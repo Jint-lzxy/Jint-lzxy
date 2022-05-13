@@ -74,7 +74,7 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: Jint-lzxy/SPFbase, Jint-lzxy/nvimconfig
+          plugin_repositories_featured: Jint-lzxy/SPFbase, Jint-lzxy/SPFlib, Jint-lzxy/nvimconfig
 
       - name: 🥰 Achievements
         if: ${{ success() || failure() }}
