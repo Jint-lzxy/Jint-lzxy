@@ -2,7 +2,7 @@
 这里是不是要写点什么？
 
 ## 🔧 Technologies & Tools
-![OS](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![OS](https://img.shields.io/badge/OS-Darwin-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![Nvim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
 ![shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)
 ![code1](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
