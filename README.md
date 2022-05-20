@@ -24,8 +24,8 @@
 
 ## 📈 GitHub Stats
 
-[<img align="left" width="430" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy">](#)
-[<img align="right" width="360" alt="🥰" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jint-lzxy&hide=python&layout=compact">](#)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jint-lzxy&hide=python&layout=compact" />
 
 <br />
 
