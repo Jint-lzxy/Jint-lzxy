@@ -26,9 +26,7 @@
 
 [<img align="left" width="390" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy">](#)
 [<img align="right" width="340" alt="🥰" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jint-lzxy&hide=python&layout=compact">](#)
-
-*****
-
+<br/><br/>
 [<img align="left" width="390" alt="🥰" src="/general.svg">](#)
 [<img align="right" width="390" alt="🥰" src="/addon.svg">](#)
 [<img align="right" width="390" alt="🥰" src="/achievements.svg">](#)
