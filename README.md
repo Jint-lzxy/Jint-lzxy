@@ -24,8 +24,12 @@
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy" />
+</a>
+<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jint-lzxy&hide=python&layout=compact" />
+</a>
 
 <br />
 
