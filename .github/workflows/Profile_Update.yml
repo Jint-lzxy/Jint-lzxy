@@ -35,6 +35,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 5
           plugin_languages_other: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: https://jint-lzxy.github.io
           
       - name: 🥰 Addon
         if: ${{ success() || failure() }}
@@ -57,13 +60,13 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
+          plugin_code_days: 15
+          plugin_code_lines: 15
+          plugin_code_load: 500
           plugin_code_visibility: public
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
           plugin_notable_types: commit
           plugin_repositories: 100
           plugin_repositories_affiliations: owner
