@@ -1,6 +1,6 @@
 name: Profile_Update
 on:
-  # Schedule updates (each day)
+  # Scheduled update (each day)
   schedule: [{cron: "0 16 * * *"}]
   workflow_dispatch:
   # push: {branches: ["master"]}
@@ -36,6 +36,7 @@ jobs:
           plugin_languages_limit: 5
           plugin_languages_other: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://jint-lzxy.github.io
           
