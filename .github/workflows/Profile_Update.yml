@@ -28,6 +28,10 @@ jobs:
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           plugin_languages: yes
           plugin_languages_ignored: python
           plugin_languages_details: lines, bytes-size, percentage
@@ -69,10 +73,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
           plugin_repositories: 100
           # plugin_repositories_affiliations: owner
           # plugin_repositories_batch: 100
