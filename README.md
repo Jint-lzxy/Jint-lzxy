@@ -25,7 +25,7 @@
 ![tool5](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![music](https://img.shields.io/badge/Music-Logic%20Pro%20X-informational?style=flat&logo=applemusic&logoColor=white&color=2bbc8a)
 
-### ⭐️ Now Learning
+### 🌟 Now Learning
 ![lang1L](https://img.shields.io/badge/Learning-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![lang2L](https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![t1L](https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
