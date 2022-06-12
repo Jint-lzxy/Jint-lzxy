@@ -31,8 +31,8 @@
 
 ## 📈 GitHub Stats
 
-[<img align="left" width="430" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
-[<img align="right" width="425" alt="🥰" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
+[<img align="left" width="410" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
+[<img align="right" width="405" alt="🥰" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
 
 <br />
 
