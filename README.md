@@ -5,7 +5,7 @@
 
 ## 🔧 Technologies & Tools
 ![OS](https://img.shields.io/badge/OS-Darwin-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![Nvim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
+![editor](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
 ![shell](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)
 ![code1](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![code2](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
@@ -22,6 +22,11 @@
 ![tool2](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)
 ![tool3](https://img.shields.io/badge/Tools-Cocos2D-informational?style=flat&logo=cocos&logoColor=white&color=2bbc8a)
 ![music](https://img.shields.io/badge/Music-Logic%20Pro%20X-informational?style=flat&logo=applemusic&logoColor=white&color=2bbc8a)
+
+### ⭐️ Now Learning
+![lang1L](https://img.shields.io/badge/Learning-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![lang2L](https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
 
 ## 📈 GitHub Stats
 
