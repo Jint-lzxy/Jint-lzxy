@@ -31,11 +31,10 @@
 
 ## 📈 GitHub Stats
 
-[<img align="left" width="430" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&theme=buefy">](#)
-[<img align="right" width="360" alt="🥰" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jint-lzxy&hide=python&layout=compact">](#)
+[<img align="left" width="430" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
+[<img align="right" width="425" alt="🥰" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
 
 <br />
-
 
 [<img align="left" width="390" alt="🥰" src="/general.svg">](#)
 [<img align="right" width="390" alt="🥰" src="/addon.svg">](#)
