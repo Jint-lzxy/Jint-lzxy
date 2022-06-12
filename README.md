@@ -28,7 +28,6 @@
 ### 🌟 Now Learning
 ![lang1L](https://img.shields.io/badge/Learning-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![lang2L](https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![t1L](https://img.shields.io/badge/Learning-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 
