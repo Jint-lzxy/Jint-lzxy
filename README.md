@@ -20,9 +20,9 @@
 ![code11](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)<!--![code12](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)-->
 ![tool1](https://img.shields.io/badge/Tools-Direct%20X-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![tool2](https://img.shields.io/badge/Tools-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
-![tool3](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)
-![tool4](https://img.shields.io/badge/Tools-Cocos2D-informational?style=flat&logo=cocos&logoColor=white&color=2bbc8a)
-![tool5](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![tool3](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![tool4](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=2bbc8a)
+![tool5](https://img.shields.io/badge/Tools-Cocos2D-informational?style=flat&logo=cocos&logoColor=white&color=2bbc8a)
 ![music](https://img.shields.io/badge/Music-Logic%20Pro%20X-informational?style=flat&logo=applemusic&logoColor=white&color=2bbc8a)
 
 ### 🌟 Now Learning
