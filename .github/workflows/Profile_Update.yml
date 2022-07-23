@@ -74,8 +74,6 @@ jobs:
           plugin_notable_from: all
           plugin_notable_types: commit
           plugin_repositories: 100
-          # plugin_repositories_affiliations: owner
-          # plugin_repositories_batch: 100
           plugin_repositories_featured: Jint-lzxy/SPFbase, Jint-lzxy/SPFlib, Jint-lzxy/nvimconfig
 
       - name: 🥰 Achievements
