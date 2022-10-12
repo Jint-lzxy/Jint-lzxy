@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="998" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1614" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -223,84 +223,207 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#546f5b9</div>
-                                        <div class="message">fix(efm[lsp]): Avoid redundant call to setup function.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#01d95a1</div>
-                                        <div class="message">fix(core): Avoid loading default plugins</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">ft.lua-tk</span>
-                                        in
-                                        <span class="repo">Jint-lzxy/nvimdots</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">catppuccin-compile-legacy</span>
-                                        in
-                                        <span class="repo">Jint-lzxy/nvimdots</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 50 commits in
                                         <span class="repo">Jint-lzxy/nvimdots</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7b177ef</div>
+                                        <div class="message">clean up</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f45026</div>
+                                        <div class="message">OS-based clipboard config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b521d0e</div>
+                                        <div class="message">Add wsl handler</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#918a094</div>
+                                        <div class="message">Merge pull request #257 from Jint-lzxy/0.8-cleanup
+
+chore(v0.8): Cleanup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca7da54</div>
+                                        <div class="message">chore(v0.8): Cleanup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#766bb47</div>
+                                        <div class="message">fix: auto bootstrap packer when _compiled is not readable.
+
+fix packer bootstrap issue in 0.8 branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2533bb4</div>
+                                        <div class="message">fix packer bootstrap issue in 0.8 branch
+
+Signed-off-by: ClSlaid &lt;cailue@bupt.edu.cn&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70f57b2</div>
+                                        <div class="message">Merge pull request #253 from Jint-lzxy/fixup-indent-ts
+
+(temp) fix: Disable Treesitter highlight on help pages.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc11dfb</div>
+                                        <div class="message">Merge pull request #252 from Jint-lzxy/vim-to-lua
+
+style: Migrate vimscript to lua code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87425e4</div>
+                                        <div class="message">style: Migrate vimscript to lua code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac1d2f0</div>
+                                        <div class="message">(temp) fix: Disable Treesitter highlight on help pages.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a48a36d</div>
+                                        <div class="message">fix: remove gps in lualine.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f767276</div>
+                                        <div class="message">Merge pull request #245 from Jint-lzxy/install-script
+
+feat(script): Complete installation script.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d97b4b4</div>
+                                        <div class="message">feat(script): Complete installation script.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a625bd6</div>
+                                        <div class="message">Merge pull request #244 from Jint-lzxy/dapui-widget
+
+feat(dapui): Enable clickable control widgets.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d68ab2a</div>
+                                        <div class="message">Merge pull request #243 from Jint-lzxy/main
+
+chore(treesitter &amp; catppuccin): Migrate to v0.8 Nvim.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#574817e</div>
+                                        <div class="message">feat(dapui): Enable clickable control widgets.
+[This requires Nvim &gt;= 0.8]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f00e434</div>
+                                        <div class="message">chore(treesitter &amp; catppuccin): Migrate to v0.8 Nvim.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40b7fd8</div>
+                                        <div class="message">feat: add install script.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f11d867</div>
+                                        <div class="message">chore: use lspsaga to provide gps, remove nvim-navic.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#273 Merge commits for nvim 0.8 version into main.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ayamir in <span class="repo">ayamir/nvimdots</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ayamir/nvimdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">0.8</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1799253</div>
+                                        <div class="message">fix: Correct typo.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">0.8-dev</span>
+                                        in
+                                        <span class="repo">Jint-lzxy/nvimdots</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 32 commits in
+                                        <span class="repo">Jint-lzxy/nvimdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">0.8</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#27cf13b</div>
+                                        <div class="message">fix: im pick up error
+
+In the version: NVIM v0.9.0-dev-55-gedc8a1f046, branch 0.8 commit
+[4a4e9eb](https://github.com/ayamir/nvimdots/commit/4a4e9eb9b3ac1397d0c5e1b40a0998488e4a5d43) will run into an error in this [line](https://github.com/ayamir/nvimdots/blob/4a4e9eb9b3ac1397d0c5e1b40a0998488e4a5d43/lua/modules/editor/config.lua#L442):
+
+Invalid expression on:
+```
+	let g:ImSelectSetImCmd = {
+			\ key -&gt;
+                              ^^------ invalid expression
+			\ key == 1 ? ['fcitx5-remote', '-c'] :
+			\ key == 2 ? ['fcitx5-remote', '-o'] :
+			\ key == 0 ? ['fcitx5-remote', '-c'] :
+			\ execute("throw 'invalid im key'")
+			\ }
+			]])
+```
+
+It's suggested in neovim's official documentations that using `nvim_cmd`
+or `nvim_exec` instead of `nvim_command` on multiple lines of Ex
+commands, and by replacing it I somehow fixed this problem.
+
+Signed-off-by: ClSlaid &lt;cailue@bupt.edu.cn&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a4e9eb</div>
+                                        <div class="message">fix(core): avoid loading default plugins, fix #266.</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#4940aa8</div>
                                         <div class="message">Revert "解决因加载顺序问题导致“mason not found”问题，以防止一些用户在添加新插件之后，PackerCompile容易报错的现象"
@@ -318,6 +441,81 @@ This reverts commit 4eafa88323078be5dc36b6953b7cef4a285c567d.</div>
                                         <div class="message">解决因加载顺序问题导致“mason not found”问题，以防止一些用户在添加新插件之后，PackerCompile容易报错的现象
 
 Signed-off-by: cody &lt;admin@nacgame.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8e25e</div>
+                                        <div class="message">chore: use LspAttach for lspsaga, comment 0,1,2 for cmdheight.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24b10fa</div>
+                                        <div class="message">chore: use default mouse settings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27b2285</div>
+                                        <div class="message">fix: remove rust.vim, attach lsp_signature to rust-analyzer.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d06bb3</div>
+                                        <div class="message">Merge pull request #263 from Jint-lzxy/0.8
+
+chore(catppuccin): Update compile fn.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2ef222</div>
+                                        <div class="message">Merge pull request #265 from Jint-lzxy/ft.lua-tk
+
+cleanup(core): Remove filetype.lua settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b0ee84</div>
+                                        <div class="message">cleanup(core): Remove filetype.lua settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9678e66</div>
+                                        <div class="message">Merge pull request #262 from wortoxs/hotfix
+
+fix: enable lsp_signature and nvim-navic with rust</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f90c79</div>
+                                        <div class="message">fix: lsp_signature and nvim-navic on rust</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21bf89e</div>
+                                        <div class="message">Merge pull request #261 from wortoxs/hotfix
+
+fix: efm language server configuration may be overwrite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9532b47</div>
+                                        <div class="message">fix: efm language server configuration may be overwrite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efb65fb</div>
+                                        <div class="message">fix: auto bootstrap packer when _compiled is not readable.
+
+fix packer bootstraping</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fdcf46</div>
+                                        <div class="message">fix packer bootstraping
+
+Signed-off-by: ClSlaid &lt;cailue@bupt.edu.cn&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c222f96</div>
+                                        <div class="message">fix(lspsaga): remove matchup config to resolve conflict with lspsaga.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#309ef6c</div>
+                                        <div class="message">Merge pull request #246 from Jint-lzxy/bufferline+catppuccin
+
+chore(bufferline &amp; catppuccin): Update integration. [main]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a705ecd</div>
+                                        <div class="message">chore(bufferline &amp; catppuccin): Update integration.
+Ref: https://github.com/catppuccin/nvim/commit/a111e8075101c0ac8be79f293e8c5181efa06402</div>
                                     </div>
                                 </div>
                             </section>
@@ -347,7 +545,7 @@ Signed-off-by: cody &lt;admin@nacgame.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 9 Oct 2022, 19:06:41
+                            On 8 Oct 2022, 19:01:49
                         </div>
                     </section>
                 </div>
@@ -357,22 +555,22 @@ Signed-off-by: cody &lt;admin@nacgame.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore(core): vim.cmd -&gt; vim.api.nvim_command
+                            chore: Optimize WSL startup time and python provider.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">bda90e86</span>
-                            <span class="code">lua/modules/completion/config.lua</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">5dc70b43</span>
+                            <span class="code">lua/core/global.lua</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,7 +16,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">vim.api.nvim_set_hl(0, "CmpPmenuSel", { bg = "#42435C" })<br /></span><span class="token prefix unchanged">·</span><span class="token line">vim.api.nvim_set_hl(0, "CmpDocBorder", { bg = "#2B2C3B" })<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token coord">--- vim.cmd([[packadd cmp-tabnine]])</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">-- vim.api.nvim_command([[packadd cmp-tabnine]])<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">local t = function(str)<br /></span><span class="token prefix unchanged">·</span><span class="token line">	return vim.api.nvim_replace_termcodes(str, true, true, true)<br /></span><span class="token prefix unchanged">·</span><span class="token line">end</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,6 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">self.is_mac = os_name == "Darwin"<br /></span><span class="token prefix unchanged">·</span><span class="token line">self.is_linux = os_name == "Linux"<br /></span><span class="token prefix unchanged">·</span><span class="token line">self.is_windows = os_name == "Windows_NT"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">self.is_wsl = vim.fn.has("wsl") == 1<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">self.vim_path = vim.fn.stdpath("config")<br /></span><span class="token prefix unchanged">·</span><span class="token line">local path_sep = self.is_windows and "\\" or "/"<br /></span><span class="token prefix unchanged">·</span><span class="token line">local home = self.is_windows and os.getenv("USERPROFILE") or os.getenv("HOME")</span></span></code>
                         </div>
                     </section>
                 </div>
