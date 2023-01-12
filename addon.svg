@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1094" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1223" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.deleted{color:#da3633}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -74,7 +74,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                         </svg>
-                                        BSD-3-Clause
+                                        Modified BSD License
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -220,19 +220,36 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#406 `&lt;leader&gt;fw` reports an error instead of opening `live_grep` preview</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by goodpaperman in <span class="repo">ayamir/nvimdots</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#413 [telescope] Support project level live grep</span>
+                                        <span class="issue">#416 python代码调试时,在dap-repl下调试指令不能用</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by kevin1sMe in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div>opened by hhcwyx in <span class="repo">ayamir/nvimdots</span></div>
                                     <div class="comment">
-                                        No, the behavior will never change, because this is the original design pattern. When you set
-                                        <code>silent_chdir</code>
-                                        to `false, it will only notify you when it switches directories.
+                                        To view all available instructions, enter
+                                        <code>.help</code>
+                                        .
                                     </div>
                                 </div>
                             </section>
@@ -245,51 +262,51 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#413 [telescope] Support project level live grep</span>
+                                        <span class="issue">#416 python代码调试时,在dap-repl下调试指令不能用</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by kevin1sMe in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div>opened by hhcwyx in <span class="repo">ayamir/nvimdots</span></div>
                                     <div class="comment">
-                                        <i>
-                                            I notice sometimes
-                                            <code>live_grep</code>
-                                            will change it's
-                                            <code>cwd</code>
-                                            if you call
-                                            <code>live_grep</code>
-                                            twice in a row. I'm not sure if that's intended or a bug.
-                                        </i>
-                                        It's indeed intended. This is exactly how project.nvim works. In fact, the change has already occurred on your first entry.
-https://github.com/ayamir/nvimdots/blob/45dadcf923498bc2f093aad00f8f3753c8996c98/lua/modules/tools/config.lua#L116-L117
-You can set
-                                        <code>silent_chdir</code>
-                                        to
-                                        <code>false</code>
-                                        to watch the changes.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#413 [telescope] Support project level live grep</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by kevin1sMe in <span class="repo">ayamir/nvimdots</span></div>
-                                    <div class="comment">
-                                        @kevin1sMe Looks like you are using your own fork. I suspect you haven't synchronized your main branch in time. During this period, we supported
+                                        You misunderstood the meaning of REPL. A Read-Eval-Print Loop (REPL) is an interactive interpreter to a programming language. It originated with LISP systems, but many other languages (Python, Ruby, Haskell, Tcl, etc.) use REPL's to manage interactive sessions. They allow for simple experimentation with a language by bypassing the compile stage of the
+                                        <code>code -&gt; compile -&gt; execute</code>
+                                        cycle.
+There are 4 components to a REPL:
+
+A
+                                        <code>read</code>
+                                        function, which reads input from the keyboard
+An
+                                        <code>eval</code>
+                                        function, which evaluates code passed to it
+A
+                                        <code>print</code>
+                                        function, which formats and displays results
+A
+                                        <code>loop</code>
+                                        function, which runs the three previous commands until termination
+
+REPL can't interact directly with your debugger (which means it can't send instructions directly) - this is done using DAP (Debug Adapter Protocol) (in
                                         <code>nvim</code>
-                                        0.8 and made several plugin adjustments. This change was introduced in https://github.com/ayamir/nvimdots/commit/eccded38bd23ce7724032cc76941a8aff81da364 and https://github.com/ayamir/nvimdots/commit/71ae7c6f789b223cdd08f116bbe50f82216b9af3. You can still complete the search because telescope-project.nvim turns out to have the same key binding. However, it has been formally replaced with project.nvim in https://github.com/ayamir/nvimdots/commit/71ae7c6f789b223cdd08f116bbe50f82216b9af3.
-cc @ayamir
+                                        , nvim-dap) through exposed APIs.
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#413 [telescope] Support project level live grep</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by kevin1sMe in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div class="comment">No, I mentioned in https://github.com/ayamir/nvimdots/issues/413#issuecomment-1378117009 that the author probably didn't sync his branch and the plugin still telescope-project.nvim, not project.nvim.</div>
                                 </div>
                             </section>
                         </div>
@@ -307,28 +324,8 @@ cc @ayamir
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ff33f4</div>
-                                        <div class="message">perf(copilot): Disable panel &amp; suggestion</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ayamir/nvimdots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#45dadcf</div>
-                                        <div class="message">perf(copilot): Disable `panel` &amp; `suggestion` (#415)</div>
+                                        <div class="sha">#4344ae6</div>
+                                        <div class="message">chore(clangfmt[efm]): Update format options</div>
                                     </div>
                                 </div>
                             </section>
@@ -358,7 +355,7 @@ cc @ayamir
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 10 Jan 2023, 11:07:28
+                            On 11 Jan 2023, 08:35:42
                         </div>
                     </section>
                 </div>
@@ -368,22 +365,22 @@ cc @ayamir
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            perf: replace bufdelete.nvim with nvim-bufdel
+                            perf(copilot): Disable panel &amp; suggestion
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">dc0ec9cc</span>
-                            <span class="code">lua/modules/ui/config.lua</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">2ff33f4f</span>
+                            <span class="code">lua/modules/completion/config.lua</span>
+                            <span class="code"><span class="snippet additions">++12</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -817,7 +817,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">disable_netrw = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">hijack_cursor = true,<br /></span><span class="token prefix unchanged">·</span><span class="token line">hijack_netrw = true,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">hijack_unnamed_buffer_when_opening = false,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">hijack_unnamed_buffer_when_opening = true,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">ignore_buffer_on_setup = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">open_on_setup = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">open_on_setup_file = false,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -399,6 +399,18 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">-- function config.copilot()<br /></span><span class="token prefix unchanged">·</span><span class="token line">-- 	vim.defer_fn(function()<br /></span><span class="token prefix unchanged">·</span><span class="token line">-- 		require("copilot").setup({<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">-- 			cmp = {<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				enabled = true,<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				method = "getCompletionsCycling",<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 			},<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 			panel = {<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				-- if true, it can interfere with completions in copilot-cmp<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				enabled = false,<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 			},<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 			suggestion = {<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				-- if true, it can interfere with completions in copilot-cmp<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 				enabled = false,<br /></span><span class="token prefix inserted">+</span><span class="token line">-- 			},<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">-- 			filetypes = {<br /></span><span class="token prefix unchanged">·</span><span class="token line">-- 				["dap-repl"] = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">-- 			},</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -398,7 +395,7 @@ cc @ayamir
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
