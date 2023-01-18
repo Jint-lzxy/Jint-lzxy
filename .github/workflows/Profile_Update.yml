@@ -8,7 +8,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: General
+      - name: 🥂 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -44,7 +44,7 @@ jobs:
           plugin_languages_limit: 5
           plugin_languages_other: yes
 
-      - name: Addon
+      - name: 🥂 Addon
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -75,7 +75,7 @@ jobs:
           plugin_repositories: 100
           plugin_repositories_featured: Jint-lzxy/SPFbase, Jint-lzxy/SPFlib, Jint-lzxy/nvimconfig
 
-      - name: Achievements
+      - name: 🥂 Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
