@@ -40,7 +40,7 @@
 
 [<img align="left" width="390" alt="🥂" src="/general.svg">](#)
 [<img align="right" width="390" alt="🥂" src="/addon.svg">](#)
-[<img align="right" width="390" alt="🥂" src="/achievements.svg">](#)
+[<img align="left" width="390" alt="🥂" src="/achievements.svg">](#)
 
 <!--
 **Jint-lzxy/Jint-lzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
