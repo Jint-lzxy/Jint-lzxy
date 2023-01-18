@@ -23,7 +23,7 @@
 ![tool3](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
 ![tool4](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat-square&logo=homebrew&logoColor=white&color=2bbc8a)
 ![tool5](https://img.shields.io/badge/Tools-Cocos2D-informational?style=flat-square&logo=cocos&logoColor=white&color=2bbc8a)
-![music](https://img.shields.io/badge/Music-Logic%20Pro%20X-informational?style=flat-square&logo=applemusic&logoColor=white&color=2bbc8a)
+<!--![music](https://img.shields.io/badge/Music-Logic%20Pro%20X-informational?style=flat-square&logo=applemusic&logoColor=white&color=2bbc8a)-->
 
 ### 🌟 Now Learning
 ![lang1L](https://img.shields.io/badge/Learning-Objective--C-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
@@ -33,14 +33,14 @@
 
 ## 📈 GitHub Stats
 
-[<img align="left" width="400" alt="🥰" src="https://github-readme-stats.vercel.app/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
-[<img align="right" width="405" alt="🥰" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
+[<img align="left" width="400" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
+[<img align="right" width="405" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
 
 <br />
 
-[<img align="left" width="390" alt="🥰" src="/general.svg">](#)
-[<img align="right" width="390" alt="🥰" src="/addon.svg">](#)
-[<img align="right" width="390" alt="🥰" src="/achievements.svg">](#)
+[<img align="left" width="390" alt="🥂" src="/general.svg">](#)
+[<img align="right" width="390" alt="🥂" src="/addon.svg">](#)
+[<img align="right" width="390" alt="🥂" src="/achievements.svg">](#)
 
 <!--
 **Jint-lzxy/Jint-lzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
