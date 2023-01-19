@@ -1,8 +1,3 @@
-# Jint-lzxy
-花は幻想のままに
-
-这里是不是要写点什么？
-
 ## 🔧 Technologies & Tools
 ![OS](https://img.shields.io/badge/OS-Darwin-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
 ![editor](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=2bbc8a)
@@ -34,13 +29,13 @@
 ## 📈 GitHub Stats
 
 [<img align="left" width="400" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
-[<img align="right" width="405" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
+[<img align="right" width="400" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
 
-<br />
+[<img align="left" width="390" alt="🥂" src="/resources/svg/general.svg">](#)
+[<img align="right" width="390" alt="🥂" src="/resources/svg/addon.svg">](#)
+[<img align="right" width="390" alt="🥂" src="/resources/svg/achievements.svg">](#)
 
-[<img align="left" width="390" alt="🥂" src="/general.svg">](#)
-[<img align="right" width="390" alt="🥂" src="/addon.svg">](#)
-[<img align="right" width="390" alt="🥂" src="/achievements.svg">](#)
+<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="800" alt="🥂" src="/resources/img/thcover.png"></a><p>🌸 花は幻想のままに 🥂</p></div>
 
 <!--
 **Jint-lzxy/Jint-lzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
