@@ -8,7 +8,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - name: 🥂 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -92,6 +91,8 @@ jobs:
           plugin_achievements_secrets: yes
           # plugin_achievements_threshold: C
 
+      - name: 🥂 Setup repo
+        uses: actions/checkout@v3
       - name: 🥂 Reorganize resources
         run: |
           git pull --no-edit && for file in *.svg; do mv -fv "${file}" ./resources/svg/; done
