@@ -31,6 +31,8 @@
 [<img align="left" width="400" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy">](#)
 [<img align="right" width="400" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy">](#)
 
+<br clear="all" /><br clear="all" />
+
 [<img align="left" width="390" alt="🥂" src="/resources/svg/general.svg">](#)
 [<img align="right" width="390" alt="🥂" src="/resources/svg/addon.svg">](#)
 [<img align="right" width="390" alt="🥂" src="/resources/svg/achievements.svg">](#)
