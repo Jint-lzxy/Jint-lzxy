@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="948" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -207,6 +207,74 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Jint-lzxy/nvimconfig</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f31a028</div>
+                                        <div class="message">feat(settings): allow customization of `transparent_background`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c18466</div>
+                                        <div class="message">chore(luarc): update `$schema`</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#698 Update highlights for cmp, wilder, indent-blankline and nvim-tree.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by huge-pancake in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div class="comment">
+                                        <i>Should windows / floating window have border or not?</i>
+                                        The following is the concept I plan to adopt:
+
+Border(s) should be used as a separator to distinguish between two rendering regions, as windows without border(s) still behave like having right-angled borders with
+                                        <code>hl-Normal</code>
+                                        as foreground. Hence, say if two overlapping windows won't make it hard for users to distinguish between them, the border(s) should be omitted and colors (bg) with different saturation levels should be used for differentiation. (For example,
+                                        <code>Telescope</code>
+                                        )
+If a border is used for some reason, then:
+  i. A right-angled border should be used as a "true" separator because it is less decorative than a rounded border. It should be mainly used to distinguish between two primary windows (e.g., the editor and nvim-cmp);
+  ii. Rounded border(s) shall be used for other purposes, such as decorating
+                                        <code>null-ls</code>
+                                        's information window (since its highlight (bg) defaults to
+                                        <code>hl-Normal</code>
+                                        , which makes it difficult for users to distinguish between those windows).
+                                        <i>It should be decided by users themselves</i>
+                                        I'm not very supportive of allowing users to customize such option b/c it is difficult to manage the borders of all plugins using the same interface. Additionally, for some windows users may not want to have borders enabled, while for some other they may wish they could have different colors. However, the way(s) to configure color- and border-style for a specific window differentiates from plugins to plugins (API differences), plus the fact that those values must be supplied during initialization (using border-character or style names) - this ultimately leads to a lot of work while still making it hard to meet all the needs. IMHO If users really want to change these appearances, they should make changes to a specific config file themselves.
+                                        <i>but this will influence all the borders between window and window</i>
+                                        Hmm AFAIK this is impossible with nvim 0.9, as it requires low-level API support (providing an option to set window-specific
+                                        <code>hl-VertSplit</code>
+                                        when creating a new split). But let's wait and see how glepnir would handle this 😄
+                                        <i>Bufferline's inactive background ... should be lighter ...</i>
+                                        Actually catppuccin provides such option (dim_inactive), but this was not adopted due to several design defects. IMO now it's time to introduce this back to the config 👍
+https://github.com/ayamir/nvimdots/blob/3be4c9bc862ce8f67e4ce712cff893b96d215754/lua/modules/configs/ui/catppuccin.lua#L7-L13
+                                        <i>Btw, I think in the field of UI, NvChad relly does very well.</i>
+                                        💯💯 Agreed. In fact, I took heavy inspiration from NvChad's UI design (as a stepping-stone for further configuration) :)
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -261,143 +329,6 @@ Here is a sneak peak of Telescope's new UI (based on your PR):
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#676 refactor(catppuccin)!: reimplement basic hl groups</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
-                                    <div class="comment">
-                                        @nullchilly Sure! In fact, I plan to open a PR upstream after this PR is merged. The plan is to adjust those treesitter highlights according to the color palette document &amp; existing color presets and attempt to reduce maintenance pressure by linking as many hl groups as possible. But this PR may take more time than expected, as I'm trying to disentangle this "intertwined puzzle" - IMHO upstream support for treesitter is a bit chaotic. Since https://github.com/catppuccin/nvim/commit/f079dda3dc23450d69b4bad11bfbd9af2c77f6f3, it has gone through a lot of repairs, which makes the current integration look like a compromise btw old and new palettes^1 (e.g.,
-                                        <code>@field</code>
-                                        was changed to
-                                        <code>C.teal</code>
-                                        in https://github.com/catppuccin/nvim/commit/8a3b8925cd87e395d1e48e3d0fc81c69533584d2, intended to "\ current syntactic rules better"[^2], but it got reverted to the previous color in a subsequent commit[^3]), leading to a sense of disharmony between hl groups (which also makes it challenging to support semantic tokens).
-This PR will try to make the hl groups self-explanatory, but we definitely need to receive more feedback and make several changeovers before merging this upstream 😄
-[^2]: catppuccin/nvim#134 (comment)
-[^3]: catppuccin/nvim@
-                                        <code>b17cfa0</code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 26 commits in
-                                        <span class="repo">Jint-lzxy/nvimdots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4614b2</div>
-                                        <div class="message">pref(ISSUE_TEMPLATE): fix typos and format with prettier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fc0202</div>
-                                        <div class="message">perf: better guidance to `Discussions` and `Wiki` (#680)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0dbcd9</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a26c878</div>
-                                        <div class="message">fix(script-win): stop escaping attr during complete cloning
-
-Ref: https://github.com/ayamir/nvimdots/issues/674</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1c5f09</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc345c9</div>
-                                        <div class="message">fix(nvim-tree): `hide_root_folder` is deprecated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c7e151</div>
-                                        <div class="message">fix: remove deprecated options for nvim-tree.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92b612e</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#939a978</div>
-                                        <div class="message">fix(lspsaga): deprecate `go_action`
-
-ref: glepnir/lspsaga.nvim@298009c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1f25a8</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#508111d</div>
-                                        <div class="message">fix(cmp): remove legacy LuaSnip jump handler
-
-ref: L3MON4D3/LuaSnip@ef94ccd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09edda3</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4524da6</div>
-                                        <div class="message">fix(mason-null-ls): support v2.0.0 (fixes #635)
-
-ref: jay-babu/mason-null-ls.nvim@a0c4dc1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d506a19</div>
-                                        <div class="message">fix(cmp-treesitter): lock commit before applying patches
-
-This resolves #634 as a temporal workaround</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8724539</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#738870d</div>
-                                        <div class="message">Merge pull request #629 from huge-pancake/main
-
-fix: use `with_noremap` in term mode exiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#676e9fa</div>
-                                        <div class="message">fix: not press `ESC` for closing terminal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67a5979</div>
-                                        <div class="message">fix: use `with_noremap` in term mode exiting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48e0528</div>
-                                        <div class="message">Merge pull request #625 from Jint-lzxy/fix/timeoutlen
-
-fix(which-key): properly handle continuous user input</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06fa1d1</div>
-                                        <div class="message">fix(which-key): properly handle continuous user input</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -415,7 +346,7 @@ fix(which-key): properly handle continuous user input</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Jint-lzxy/nvimconfig</span>
+                            <span class="blue space">ayamir/nvimdots</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -423,7 +354,7 @@ fix(which-key): properly handle continuous user input</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 29 Apr 2023, 16:12:19
+                            On 30 Apr 2023, 23:03:04
                         </div>
                     </section>
                 </div>
@@ -433,17 +364,17 @@ fix(which-key): properly handle continuous user input</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(auto-session): remember opened buffers
+                            feat!: cherry-picked applicable updates from `main`
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">871e0bcb</span>
-                            <span class="code">lua/core/options.lua</span>
+                            <span class="code">2efc5db9</span>
+                            <span class="code">lua/modules/configs/editor/suda.lua</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++3</span>
+                                <span class="snippet deletions">--0</span>
                             </span>
                         </div>
                     </section>
@@ -451,7 +382,7 @@ fix(which-key): properly handle continuous user input</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -47,7 +47,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">redrawtime = 1500,<br /></span><span class="token prefix unchanged">·</span><span class="token line">ruler = true,<br /></span><span class="token prefix unchanged">·</span><span class="token line">scrolloff = 3,<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">sessionoptions = "curdir,help,tabpages,winsize",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">sessionoptions = "buffers,curdir,help,tabpages,winsize",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">shada = "!,'300,&lt;50,@100,s10,h",<br /></span><span class="token prefix unchanged">·</span><span class="token line">shiftround = true,<br /></span><span class="token prefix unchanged">·</span><span class="token line">shortmess = "aoOTIcF",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">return function()<br /></span><span class="token prefix inserted">+</span><span class="token line">vim.g["suda#prompt"] = "Enter administrator password: "<br /></span><span class="token prefix inserted">+</span><span class="token line">end</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -466,7 +397,7 @@ fix(which-key): properly handle continuous user input</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
