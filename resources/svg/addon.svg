@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1476" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1041" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}.deleted{color:#da3633}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.boolean,.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -207,142 +207,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fc7f873</div>
-                                        <div class="message">fix(lualine): update icon for git branch info</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#447 fix(icons): Update icon codepoints</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
-                                    <div class="comment">
-                                        https://github.com/ayamir/nvimdots/pull/447/commits/c5da797bda96e9a423579281b9e0fcffc89763cf simply ran
-                                        <code>nerdfix</code>
-                                        without making any special adjustments:
-                                        <code class="language-sh"><span class="token function">find</span> ./lua <span class="token parameter variable">-type</span> f <span class="token parameter variable">-exec</span> <span class="token variable">$TMPDIR</span>/gh/unk1/bin/nerdfix fix <span class="token parameter variable">--replace</span> nf-mdi-,nf-md- <span class="token punctuation">{</span><span class="token punctuation">}</span> <span class="token punctuation">\</span><span class="token punctuation">;</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 290 commits in
+                                        Deleted
+                      branch
+                                        <span class="code">#710</span>
+                                        in
                                         <span class="repo">Jint-lzxy/nvimdots</span>
                                     </div>
                                 </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#710 [transferred] cmd is not executable when setting up `tsserver`</span>
+                                    </div>
+                                </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-icon-codepoints</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d622e1</div>
-                                        <div class="message">fix: fold issue of files opened by telescope.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cc895b</div>
-                                        <div class="message">feat(script): Complete installation script on Windows. (#452)
-
-Resolves https://github.com/ayamir/nvimdots/issues/448</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ad1800</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c313d52</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#288958e</div>
-                                        <div class="message">chore(lspsaga): Remove legacy option</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9fd6991</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7edd52c</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a22ae0</div>
-                                        <div class="message">fix(script): Remove redefinition of `DEST_DIR`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a32e241</div>
-                                        <div class="message">chore(catppuccin): Remove legacy workarounds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f529501</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1c97f1</div>
-                                        <div class="message">style: remove unused code block.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f860206</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e2ec8a</div>
-                                        <div class="message">feat(keymap): add keymap for lsp rename in project range.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60a9a92</div>
-                                        <div class="message">Merge pull request #449 from Jint-lzxy/lspsaga/migration
-
-chore(lspsaga &amp; catppuccin): Migrate to v0.2.4.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd84e56</div>
-                                        <div class="message">fix(lspsaga): Disable lightbulb
-https://github.com/ayamir/nvimdots/pull/449#issuecomment-1407551088</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a065e0</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff86739</div>
-                                        <div class="message">fix(catppuccin): Use `style` table to pass attributes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d894fe</div>
-                                        <div class="message">chore(lspsaga): Migrate to v0.2.4.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dc0c12</div>
-                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a46eb1b</div>
-                                        <div class="message">revert(lspsaga): keep it updated with updated config.</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">ayamir/nvimdots</span></div>
                                 </div>
                             </section>
                         </div>
@@ -354,15 +244,12 @@ https://github.com/ayamir/nvimdots/pull/449#issuecomment-1407551088</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#447 fix(icons): Update icon codepoints</span>
+                                        <span class="issue">#710 [transferred] cmd is not executable when setting up `tsserver`</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
-                                    <div class="comment">
-                                        <i>quick question: can cod icons displayed without installing codicons.ttf?</i>
-                                        Yes as they're part of the NF collection.
-                                    </div>
+                                    <div class="comment">https://github.com/Jint-lzxy/nvimdots/commit/32a38bf3ad177afed843806b307b1dc97bbb85b8#r111988057</div>
                                 </div>
                             </section>
                         </div>
@@ -374,20 +261,38 @@ https://github.com/ayamir/nvimdots/pull/449#issuecomment-1407551088</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#447 fix(icons): Update icon codepoints</span>
+                                        <span class="issue">#711 Icons not fully support Nerd Font 3.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div>opened by AngelontheRoad in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div class="comment">We do not intend to maintain backward compatibility here as it's unusual to find users who can't update their installed fonts.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#711 Icons not fully support Nerd Font 3.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AngelontheRoad in <span class="repo">ayamir/nvimdots</span></div>
                                     <div class="comment">
-                                        @CharlesChiuGit @ayamir So here's the deal: Given that the default icons used by upstream repos will (probably) be replaced with
-                                        <code>nf-cod-*</code>
-                                        (codeicons), shall we also update
-                                        <code>icons.lua</code>
-                                        to keep consistency with theirs?
-Ref:
-https://github.com/nvim-tree/nvim-web-devicons/pull/264
-https://github.com/onsails/lspkind.nvim/pull/64
+                                        https://github.com/ayamir/nvimdots/pull/447. Excerpt from draft release:
+                                        <i>
+                                            This release mainly targeted Release v3.0.0 · ryanoasis/nerd-fonts. 
+
+Please update your installed nerd font(s) to v3.0.0 so that the icons can be rendered properly. 
+Starting from v3.0.0, please use the
+                                            <code>Mono</code>
+                                            variant (Nerd Font Mono or NFM) as your GUI font.
+                                        </i>
                                     </div>
                                 </div>
                             </section>
@@ -409,7 +314,7 @@ https://github.com/onsails/lspkind.nvim/pull/64
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">ayamir/nvimdots</span>
+                            <span class="blue space">Jint-lzxy/nvimdots</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -417,7 +322,7 @@ https://github.com/onsails/lspkind.nvim/pull/64
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Apr 2023, 23:21:43
+                            On 4 May 2023, 22:45:46
                         </div>
                     </section>
                 </div>
@@ -427,17 +332,17 @@ https://github.com/onsails/lspkind.nvim/pull/64
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat!: cherry-picked applicable updates from `main`
+                            fixup! fix missing icons
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">008dbe76</span>
-                            <span class="code">lua/modules/configs/ui/catppuccin.lua</span>
+                            <span class="code">480210cc</span>
+                            <span class="code">lua/core/settings.lua</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -445,7 +350,7 @@ https://github.com/onsails/lspkind.nvim/pull/64
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">return function()<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">local transparent_background = false -- Set background transparency here!<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">local transparent_background = require("core.settings").transparent_background<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">require("catppuccin").setup({<br /></span><span class="token prefix unchanged">·</span><span class="token line">	flavour = "mocha", -- Can be one of: latte, frappe, macchiato, mocha<br /></span></span>@@ -47,6 +47,7 @@ return function()<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">			},<br /></span><span class="token prefix unchanged">·</span><span class="token line">		},<br /></span><span class="token prefix unchanged">·</span><span class="token line">		aerial = false,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		alpha = false,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		barbar = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">		beacon = false,<br /></span><span class="token prefix unchanged">·</span><span class="token line">		cmp = true,</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,9 +9,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">---@type boolean<br /></span><span class="token prefix unchanged">·</span><span class="token line">settings["format_on_save"] = true<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token coord">--- Set it to false if diagnostics virtual texts are annoying for you</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">-- Set it to false if diagnostics virtual text is annoying for you<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">---@type boolean<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">settings["inline_diagnostic_virtual_text"] = true<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">settings["diagnostics_virtual_text"] = true<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">-- Set the format disabled directories here, files under these dirs won't be formatted on save.<br /></span><span class="token prefix unchanged">·</span><span class="token line">---@type string[]</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -460,7 +365,7 @@ https://github.com/onsails/lspkind.nvim/pull/64
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
