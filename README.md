@@ -29,8 +29,8 @@
 ## 📈 Fun Stats
 
 <div>
-    <div style="float: left; width: 50%"><a href="#"><img align="left" width="400" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy"></a></div>
-    <div style="float: right; width: 50%"><a href="#"><img align="right" width="400" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy"></a></div>
+    <a href="#"><img align="left" width="50%" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy"></a></div>
+    <a href="#"><img align="right" width="50%" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy"></a></div>
 </div>
 
 <br clear="all" /><br clear="all" />
