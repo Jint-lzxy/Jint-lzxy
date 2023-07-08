@@ -36,9 +36,9 @@
 <br clear="all" /><br clear="all" />
 
 <div>
-    <a href="#"><img align="left" width="48%" alt="🥂" src="/resources/svg/general.svg"></a></div>
-    <a href="#"><img align="right" width="48%" alt="🥂" src="/resources/svg/addon.svg"></a></div>
-    <a href="#"><img align="right" width="48%" alt="🥂" src="/resources/svg/achievements.svg"></a></div>
+    <a href="#"><img align="left" width="47%" alt="🥂" src="/resources/svg/general.svg"></a></div>
+    <a href="#"><img align="right" width="47%" alt="🥂" src="/resources/svg/addon.svg"></a></div>
+    <a href="#"><img align="right" width="47%" alt="🥂" src="/resources/svg/achievements.svg"></a></div>
 </div>
 
 <div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="95%" alt="🥂" src="/resources/img/thcover.png"></a><p>🌸 花は幻想のままに 🥂</p></div>
