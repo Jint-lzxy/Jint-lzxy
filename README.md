@@ -29,17 +29,19 @@
 ## 📈 Fun Stats
 
 <div>
-    <a href="#"><img align="left" width="50%" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy"></a></div>
-    <a href="#"><img align="right" width="50%" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy"></a></div>
+    <a href="#"><img align="left" width="47%" alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy"></a></div>
+    <a href="#"><img align="right" width="49.05%" alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy"></a></div>
 </div>
 
 <br clear="all" /><br clear="all" />
 
-[<img align="left" width="390" alt="🥂" src="/resources/svg/general.svg">](#)
-[<img align="right" width="390" alt="🥂" src="/resources/svg/addon.svg">](#)
-[<img align="right" width="390" alt="🥂" src="/resources/svg/achievements.svg">](#)
+<div>
+    <a href="#"><img align="left" width="48%" alt="🥂" src="/resources/svg/general.svg"></a></div>
+    <a href="#"><img align="right" width="48%" alt="🥂" src="/resources/svg/addon.svg"></a></div>
+    <a href="#"><img align="right" width="48%" alt="🥂" src="/resources/svg/achievements.svg"></a></div>
+</div>
 
-<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="800" alt="🥂" src="/resources/img/thcover.png"></a><p>🌸 花は幻想のままに 🥂</p></div>
+<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="95%" alt="🥂" src="/resources/img/thcover.png"></a><p>🌸 花は幻想のままに 🥂</p></div>
 
 <!--
 **Jint-lzxy/Jint-lzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
