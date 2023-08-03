@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1111" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -211,12 +211,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#920 feat: add `Glance.nvim`</span>
+                                        <span class="issue">#929 feat: replace wilder by cmp.cmdline</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
-                                    <div class="comment">https://github.com/ayamir/nvimdots/pull/920/commits/313b49a59c217fa093e177f7b85f4201abf7b3fe</div>
+                                    <div>opened by fecet in <span class="repo">ayamir/nvimdots</span></div>
+                                    <div class="comment">Possible edge cases are described in https://github.com/ayamir/nvimdots/pull/926#issuecomment-1662618825 and https://github.com/ayamir/nvimdots/pull/926#issuecomment-1662626040. This is the main reason preventing us from introducing this change.</div>
                                 </div>
                             </section>
                         </div>
@@ -228,34 +228,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimdots</span>
+                                        <span class="repo">Jint-lzxy/nvimconfig</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/Glance.nvim</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#313b49a</div>
-                                        <div class="message">fix(Glance): resolve target URI correctly</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimdots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/symbols-outline</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6bae3e8</div>
-                                        <div class="message">fixup! the spec is missing :'(</div>
+                                        <div class="sha">#c920e62</div>
+                                        <div class="message">chore(vim-illuminate): cleanup</div>
                                     </div>
                                 </div>
                             </section>
@@ -274,8 +254,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feat/Glance.nvim</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fef00e3</div>
-                                        <div class="message">fixup! the spec is missing :'(</div>
+                                        <div class="sha">#a8e5e26</div>
+                                        <div class="message">style(catppuccin): cleanup</div>
                                     </div>
                                 </div>
                             </section>
@@ -288,18 +268,78 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#921 feat: add symbols-outline</span>
+                                        <span class="issue">#920 feat(plugins): add `Glance.nvim`</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by Jint-lzxy in <span class="repo">ayamir/nvimdots</span></div>
                                     <div class="comment">
-                                        <i>
-                                            Have't add it to
-                                            <code>plugin.lua</code>
-                                            ?
-                                        </i>
-                                        Ah yes, I forgot to commit this change. Sorry for this.
+                                        <i>I originally thought we were going to use glance to replace the peek function of lspsaga, so my previous concerns were irrelevant. But why not?</i>
+                                        https://github.com/ayamir/nvimdots/pull/920/commits/3aae05bb04b76888ac94ef8c95439881c777b68f
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">Jint-lzxy/nvimdots</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/Glance.nvim</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00be302</div>
+                                        <div class="message">cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3aae05b</div>
+                                        <div class="message">feat: use glance to preview definitions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36910c7</div>
+                                        <div class="message">Merge branch 'main' into feat/Glance.nvim</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8325140</div>
+                                        <div class="message">feat(plugins): add `symbols-outline.nvim` (#921)
+
+* feat: add symbols-outline
+
+* fixup
+
+* fixup! the spec is missing :'(
+
+* fix: keep filename and ui consistency.
+
+Signed-off-by: ayamir &lt;lgt986452565@gmail.com&gt;
+
+---------
+
+Signed-off-by: ayamir &lt;lgt986452565@gmail.com&gt;
+Co-authored-by: ayamir &lt;lgt986452565@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51d3ade</div>
+                                        <div class="message">chore(lockfile): auto update lazy-lock.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb588cd</div>
+                                        <div class="message">fix: show unique name in bufferline (#925)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f302bf4</div>
+                                        <div class="message">fix(toggleterm): `start_in_insert` not working (#919)
+
+IMO this is a good patch (taken from #913) and should be merged
+
+---
+Co-authored-by: YuCao16 &lt;yu.carl@outlook.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -339,40 +379,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(dap)!: support integrated terminals (io in neovim) (#877)
-
-* feat(dap)!: support integrated terminals (io in neovim)
-
-* fix(dap): correct event callback
-
-* feat(dap): setup keymaps correctly
-
-* fix CI
-
-fix variable naming
-
-* adjust dapui
-
-* feat(dap): support debugpy integrated terminal io.
-
-* support vscode-go and misc changes
-
-* fix CI
-
-* fixup dap utils
-
----------
-
-Co-authored-by: ayamir &lt;lgt986452565@gmail.com&gt;
+                            feat(lualine): add icon for PyEnv (#892)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a9610243</span>
-                            <span class="code">lua/modules/configs/editor/rainbow_delims.lua</span>
+                            <span class="code">65bc19f8</span>
+                            <span class="code">lua/modules/utils/icons.lua</span>
                             <span class="code">
-                                <span class="snippet additions">++3</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -381,7 +397,7 @@ Co-authored-by: ayamir &lt;lgt986452565@gmail.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -10,7 +10,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		if errors &lt; 0 then<br /></span><span class="token prefix unchanged">·</span><span class="token line">			return nil<br /></span><span class="token prefix unchanged">·</span><span class="token line">		end<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		return (check_lines and vim.fn.line("$") &gt; 450) and require("rainbow-delimiters").strategy["global"]<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		return (check_lines and vim.fn.line("$") &gt; 350) and require("rainbow-delimiters").strategy["global"]<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">			or require("rainbow-delimiters").strategy["local"]<br /></span><span class="token prefix unchanged">·</span><span class="token line">	end<br /></span><span class="token prefix unchanged">·</span><span class="token line">end<br /></span></span>@@ -20,6 +20,8 @@ return function()<br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		[""] = init_strategy(false),<br /></span><span class="token prefix unchanged">·</span><span class="token line">		c = init_strategy(true),<br /></span><span class="token prefix unchanged">·</span><span class="token line">		cpp = init_strategy(true),<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		vimdoc = init_strategy(true),<br /></span><span class="token prefix inserted">+</span><span class="token line">		vim = init_strategy(true),<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	},<br /></span><span class="token prefix unchanged">·</span><span class="token line">	query = {<br /></span><span class="token prefix unchanged">·</span><span class="token line">		[""] = "rainbow-delimiters",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -150,7 +150,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Gavel = "",<br /></span><span class="token prefix unchanged">·</span><span class="token line">Glass = "󰂖",<br /></span><span class="token prefix unchanged">·</span><span class="token line">NoActiveLsp = "󱚧",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">PyEnv = "󰌠",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">PyEnv = "󰢩",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Squirrel = "",<br /></span><span class="token prefix unchanged">·</span><span class="token line">Tag = "",<br /></span><span class="token prefix unchanged">·</span><span class="token line">Tree = "",</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -396,7 +412,7 @@ Co-authored-by: ayamir &lt;lgt986452565@gmail.com&gt;
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
