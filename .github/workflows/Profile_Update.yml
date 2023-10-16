@@ -92,13 +92,13 @@ jobs:
           # plugin_achievements_threshold: C
 
       - name: 🥂 Setup repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: 🥂 Reorganize resources
         run: |
           git pull --no-edit && for file in *.svg; do mv -fv "${file}" ./resources/svg/; done
 
       - name: 🥂 Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "[Actions] chore: reorganize assets"
           commit_user_name: "github-actions[bot]"
