@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="795" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1553" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.repository .name{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{align-items:center;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.added{color:#3fb950}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.number{color:#2777aa}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -218,6 +218,330 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 28 commits in
+                                        <span class="repo">Jint-lzxy/nvim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor/syntax-highlighting</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba41328</div>
+                                        <div class="message">feat: Add markdown.nvim integration (#740)
+
+* feat: Add markdown.nvim integration
+
+* fix: option order
+
+* fix: Use `render-markdown` name in README</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10eda02</div>
+                                        <div class="message">chore(main): release 1.8.0 (#702)
+
+Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4374588</div>
+                                        <div class="message">fix(treesitter): highlight paths in `.gitignore` as text (#736)
+
+* fix(treesitter): highlight wildcards in .gitignore differently
+
+* fix(treesitter): color paths in `.gitignore` as mauve
+
+* fix(treesitter): color paths in `.gitignore` as text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07f1ee8</div>
+                                        <div class="message">feat: add `grug-far.nvim` integration (#735)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b5df9c</div>
+                                        <div class="message">docs: auto generate vimdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f16c6d</div>
+                                        <div class="message">feat(nvim-surround): add integration (#733)
+
+* feat(nvim-surround): add integration
+
+* chore: update README.md
+
+* fix: update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7946d1a</div>
+                                        <div class="message">feat(feline): allow to hide lazy.nvim updates (#731)
+
+* feat(feline): allow to hide lazy.nvim updates
+
+* fix(feline): check if lazy.nvim exisis
+
+* feat(feline): disable lazy.nvim updates module by default
+docs(feline): document settings for lazy.nvim updates module
+
+* docs: auto generate vimdoc
+
+---------
+
+Co-authored-by: vollowx &lt;vollowx@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47bd419</div>
+                                        <div class="message">feat(feline): add lazy.nvim updates module, replace deprecated API (#725)
+
+* Add lazy.nvim plugin updates in feline
+* Use pcall for checking if lazy.nvim is installed
+* fix(feline): fix provider option for lazy updates
+* refactor(feline): update deprecated api functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d3419c</div>
+                                        <div class="message">fix!(leap): highlight group for `LeapLabel` (#728)
+
+`LeapLabel` replaces `LeapLabelPrimary` and `LeapLabelSecondary`
+
+Signed-off-by: Platy &lt;daryl.limkz@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ea0173</div>
+                                        <div class="message">fix(dapui): border match bg color (#727)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d76b57</div>
+                                        <div class="message">Revert "fix: color float window border background (#722)"
+
+This reverts commit 31fcfb02c47952d5c75aec893b93b2878abe5fbb, as it
+breaks some of the UI.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31fcfb0</div>
+                                        <div class="message">fix: color float window border background (#722)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6827a67</div>
+                                        <div class="message">feat(mini): add new highlight groups (#721)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#894efb5</div>
+                                        <div class="message">fix(defaults)!: Enable mini integration by default (#718)
+
+The documentation says that mini is enabled by default, but it is not.
+This patch changes the defaults to match what is documented.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67565cd</div>
+                                        <div class="message">feat(csv): built-in rainbow highlighting (#720)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0bea77</div>
+                                        <div class="message">fix: small typo in feline.lua file (#719)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc8e290</div>
+                                        <div class="message">feat(bufferline): add `indicator_visible` and `modified_visible` (#716)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afccb3d</div>
+                                        <div class="message">fix(neogit): link WinSeparator (#713)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5215ea5</div>
+                                        <div class="message">Support new "Ok" diagnostics (#708)
+
+* feat(native_lsp): support new "Ok" diagnostics
+
+Defaults to using the green color.
+
+This was not added to the "LspDiagnostic*" highlights since I could not
+find any documentation on whether the "Ok" diagnostic is implemented for
+those. Indeed, I could not find any documentation whatsoever on the
+LspDiagnostic* highlights (grepping the Neovim source turned up no
+mentions of them either).
+
+* doc(native_lsp): new "Ok" diagnostic
+
+Add documentation and type information for the new "Ok" diagnostic.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4edca6b</div>
+                                        <div class="message">feat(treesitter-content): highlight line number (#709)
+
+* fix:(treesitter-content): respect transparency
+
+* chore: format
+
+---------
+
+Co-authored-by: Myles Mo &lt;mylesmo.ash@gmail.com&gt;
+Co-authored-by: mrtnvgr &lt;root@unixis.fun&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">Jint-lzxy/nvim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#05206bb</div>
+                                        <div class="message">feat: add fzf-lua integration (#746)
+
+* feat: add fzf-lua integration
+
+* docs: auto generate vimdoc
+
+* chore: typo
+
+---------
+
+Co-authored-by: vollowx &lt;vollowx@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03a2f35</div>
+                                        <div class="message">fix(render-markdown): add highlights for callout (#745)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68b92f9</div>
+                                        <div class="message">docs: auto generate vimdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3907de</div>
+                                        <div class="message">feat: add lir.nvim and lir-git-status.nvim integration (#705)
+
+* add appropriate types
+
+* add lir.nvim (lir-git-status.nvim) integration
+
+* add integration info to vimdocs
+
+* add info to README
+
+* chore: format
+
+---------
+
+Co-authored-by: mrtnvgr &lt;root@unixis.fun&gt;
+Co-authored-by: Vollow &lt;vollowx@proton.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1268d1</div>
+                                        <div class="message">docs: auto generate vimdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#774a4ed</div>
+                                        <div class="message">docs: Rename markdown.nvim to render-markdown.nvim (#743)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba5f415</div>
+                                        <div class="message">docs: auto generate vimdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba41328</div>
+                                        <div class="message">feat: Add markdown.nvim integration (#740)
+
+* feat: Add markdown.nvim integration
+
+* fix: option order
+
+* fix: Use `render-markdown` name in README</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10eda02</div>
+                                        <div class="message">chore(main): release 1.8.0 (#702)
+
+Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4374588</div>
+                                        <div class="message">fix(treesitter): highlight paths in `.gitignore` as text (#736)
+
+* fix(treesitter): highlight wildcards in .gitignore differently
+
+* fix(treesitter): color paths in `.gitignore` as mauve
+
+* fix(treesitter): color paths in `.gitignore` as text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07f1ee8</div>
+                                        <div class="message">feat: add `grug-far.nvim` integration (#735)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b5df9c</div>
+                                        <div class="message">docs: auto generate vimdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f16c6d</div>
+                                        <div class="message">feat(nvim-surround): add integration (#733)
+
+* feat(nvim-surround): add integration
+
+* chore: update README.md
+
+* fix: update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Jint-lzxy/nvimconfig</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#70a8f3e</div>
+                                        <div class="message">feat(cmp-buffer): disable for files with over 2500 lines
+
+Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Jint-lzxy/nvimconfig</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b43762</div>
+                                        <div class="message">feat(treesitter): disable for files with over 7500 lines
+
+Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Jint-lzxy/nvimconfig</span>
                                     </div>
@@ -239,78 +563,6 @@ Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</di
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0329fc</div>
-                                        <div class="message">feat(diffview): configure different layouts for individual views
-
-Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dda6d91</div>
-                                        <div class="message">chore(nvim-tree): cleanup legacy options
-
-Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Jint-lzxy/nvimconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#36be815</div>
-                                        <div class="message">feat(ts-textobj): add mappings for `@parameter`
-
-Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39b165b</div>
-                                        <div class="message">chore(lua_ls): cleanup
-
-Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -325,9 +577,48 @@ Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</di
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">Jint-lzxy/nvimconfig</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 7 Aug 2024, 23:23:08
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            feat(treesitter): disable for files with over 7500 lines
+
+Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">0b437626</span>
+                            <span class="code">lua/modules/configs/editor/treesitter.lua</span>
+                            <span class="code">
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,7 +11,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">disable = function(ft, bufnr)<br /></span><span class="token prefix unchanged">·</span><span class="token line">	if<br /></span><span class="token prefix unchanged">·</span><span class="token line">		vim.tbl_contains({ "gitcommit" }, ft)<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">		or (vim.api.nvim_buf_line_count(bufnr) &gt; 4500 and ft ~= "vimdoc")<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">		or (vim.api.nvim_buf_line_count(bufnr) &gt; 7500 and ft ~= "vimdoc")<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">	then<br /></span><span class="token prefix unchanged">·</span><span class="token line">		return true<br /></span><span class="token prefix unchanged">·</span><span class="token line">	end</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -342,7 +633,7 @@ Signed-off-by: Jint-lzxy &lt;50296129+Jint-lzxy@users.noreply.github.com&gt;</di
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
