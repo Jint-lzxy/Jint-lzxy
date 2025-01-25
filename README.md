@@ -56,7 +56,6 @@
   <a href="#">
     <img alt="🥂" src="/resources/svg/general.svg" align="top" width="412px"/>
     <img alt="🥂" src="/resources/svg/addon.svg" align="top" width="412px"/>
-    <img alt="🥂" src="/resources/svg/achievements.svg" align="right" width="412px"/>
   </a>
 </div>
 
