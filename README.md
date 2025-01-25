@@ -35,7 +35,7 @@
 ![Tool4](https://img.shields.io/badge/Tools-.NET-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Tool5](https://img.shields.io/badge/Tools-Homebrew-6a4c9c?style=for-the-badge&logo=homebrew&logoColor=white)
 ![Tool6](https://img.shields.io/badge/Tools-Cocos2D-44b6a2?style=for-the-badge&logo=cocos&logoColor=white)
-![Tool7](https://img.shields.io/badge/Tools-Qt-41c5cc?style=for-the-badge&logo=qt&logoColor=white)
+![Tool7](https://img.shields.io/badge/Tools-Qt-42cd52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 🌟 Now Learning
 
