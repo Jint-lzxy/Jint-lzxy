@@ -48,8 +48,8 @@
 ## 📈 Fun Stats
 
 <div align="center">
-  <img alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy" width="412px" height="162.3px"/> 
-  <img alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy" width="412px" height="162.3px"/>
+  <img alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy" width="412px"/> 
+  <img alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy&border=e4e2e2&card_width=467&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" width="412px"/>
 </div>
 
 <div align="center">
