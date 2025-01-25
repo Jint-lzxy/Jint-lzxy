@@ -56,6 +56,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Taipei
+          config_order: notable, repositories, activity, fortune, achievements
           plugin_fortune: yes
           plugin_activity: yes
           plugin_activity_days: 14
@@ -63,12 +64,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 350
           plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_days: 5
-          plugin_code_lines: 20
-          plugin_code_languages: c, c++, lua, swift, objective-c, objective-c++, hlsl, javascript
-          plugin_code_visibility: public
-          plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
