@@ -48,27 +48,26 @@
 ## 📈 Fun Stats
 
 <div align="center">
-  <table style="width: 100%; text-align: center; border: 0;">
-    <tr>
-      <td style="width: 48%; border: 0;"><a href="#"><img alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy" style="width: 100%;"></a></td>
-      <td style="width: 48%; border: 0;"><a href="#"><img alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy" style="width: 100%;"></a></td>
-    </tr>
-  </table>
+  <img alt="🥂" src="https://github-readme-stats.zohan.tech/api?username=Jint-lzxy&show_icons=true&count_private=true&theme=buefy" width="412px"/> 
+  <img alt="🥂" src="https://github-readme-streak-stats.herokuapp.com/?user=Jint-lzxy&theme=buefy" width="412px"/>
 </div>
 
 <div align="center">
-  <table style="width: 100%; text-align: center; border: 0;">
-    <tr>
-      <td style="width: 48%; border: 0;"><a href="#"><img alt="🥂" src="/resources/svg/general.svg" style="width: 100%;"></a></td>
-      <td style="width: 48%; border: 0; vertical-align: top;">
-        <a href="#"><img alt="🥂" src="/resources/svg/addon.svg" style="width: 100%;"></a><br clear="all" />
-        <a href="#"><img alt="🥂" src="/resources/svg/achievements.svg" style="width: 100%;"></a>
-      </td>
-    </tr>
-  </table>
+  <a href="#">
+    <img alt="🥂" src="/resources/svg/general.svg" align="top" width="412px"/>
+    <img alt="🥂" src="/resources/svg/addon.svg" align="top" width="412px"/>
+    <img alt="🥂" src="/resources/svg/achievements.svg" align="right" width="412px"/>
+  </a>
 </div>
 
-<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="95%" alt="🥂" src="/resources/img/thcover.png"></a><p>🌸 花は幻想のままに 🥂</p></div>
+<hr />
+
+<div align="center" dir="auto">
+  <a href="https://www.pixiv.net/artworks/98362566">
+    <img width="95%" alt="🥂" src="/resources/img/thcover.png"/>
+  </a>
+  <p>🌸 花は幻想のままに 🥂</p>
+</div>
 
 <!--
 **Jint-lzxy/Jint-lzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
