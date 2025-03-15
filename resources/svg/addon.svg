@@ -438,7 +438,7 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
@@ -462,7 +462,7 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.9336071184120351 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -578,7 +578,7 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.9725 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="79.24374999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -603,10 +603,10 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                                     maintainer
                                     <span class="gh">ranked 17.2k out of 243m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">3038</div>
+                                        <div class="value">3045</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 3038 stars</div>
+                                <div class="text">Maintaining a repository with 3045 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -817,7 +817,7 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 727k out of 159m users</span>
+                                    <span class="gh">ranked 728k out of 159m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -979,7 +979,7 @@ Installing anything non-MSVC without a package manager is a nightmare, so I woul
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.59m out of 243m repositories</span>
+                                    <span class="gh">ranked 5.60m out of 243m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
